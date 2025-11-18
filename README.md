@@ -37,8 +37,8 @@ Mind-Bloom is a mindfulness journaling application that combines personal reflec
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/coloradocollective/s25-team-4-capstone.git
-   cd s25-team-4-capstone
+   git clone https://github.com/Meghan31/mind-bloom-prod.git
+   cd mind-bloom-prod
    ```
 
 2. Install dependencies
@@ -160,4 +160,4 @@ The application uses three main models:
 - **JournalEntry**: User journal entries with content, mood, and associated affirmations
 
 ---
-Built with ❤️ by Team-4 | Mind-Bloom: Nurturing your mental wellness journey, one journal entry at a time.
+Built with ❤️ by Meghan31 | Mind-Bloom: Nurturing your mental wellness journey, one journal entry at a time.
